@@ -1,1 +1,1 @@
-# Etch-a-Sketch
+# This is my second project made with The Odin Project, please enjoy and let me know your feedback!
